@@ -4,6 +4,13 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
+console.log ('Hello World!')
+console.log ('Setting up my new Lenovo Yoga 9i')
+console.log ('How is the day going')
+console.log ("what's your name")
+console.log ("sum of two numbers");
+console.log ('"sum of two numbers"');
+console.log ("'2+2=4';'Sum of two numbers'");
 console.log ('Quoth the Raven "Nevermore"')
 
 /*  
